@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\aksha\\Desktop\\flutter_projects\\app_two\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\aksha\\Desktop\\flutter_projects\\flutter-QuizApp\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
